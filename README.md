@@ -36,17 +36,6 @@ _TBD_
 
 ---
 
-## Tags (phase checkpoints)
-
-| Tag                 | Meaning              |
-|---------------------|----------------------|
-| `v0.1-requirements` | Phase 1 complete     |
-| `v0.2-er-model`     | Phase 2 complete     |
-| `v0.3-schema`       | Phase 3 complete     |
-| `v1.0-sql`          | Phase 5 complete     |
-
----
-
 ## Notes
 
 - Requirements: see [`docs/01-requirements.md`](docs/01-requirements.md)
