@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Database files & dumps (never commit these)
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.dump
+*.sql.gz
+
+# Secrets / env
+.env
+*.env
+
+# Editors
+.vscode/
+.idea/
+
+# Temp
+*.tmp
