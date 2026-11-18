@@ -1,3 +1,5 @@
+**🇬🇧 English | 🇮🇷 [فارسی](README.fa.md)**
+
 # Database Project — Solar Panel Management System
 ---
 
@@ -40,3 +42,7 @@ _TBD_
 
 - Requirements: see [`docs/01-requirements.md`](docs/01-requirements.md)
 - The original `.docx` submission copy is kept alongside for reference.
+
+---
+
+> **Note:** This README is also available in [Persian](README.fa.md). Any change to project status, structure, or phase list must be applied to **both** files.
