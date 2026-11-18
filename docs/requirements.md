@@ -1,4 +1,4 @@
-**🇬🇧 English | 🇮🇷 [فارسی](requirements.fa.md)**
+**🇬🇧 English |  [فارسی](requirements.fa.md)**
 
 > **Note:** Color-coded formatting from the original `.pdf` is preserved as emoji markers. Formatted original: [`source/Helios-db-RC.pdf`](source/Helios-db-RC.pdf).
 
