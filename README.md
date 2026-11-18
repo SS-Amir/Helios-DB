@@ -1,6 +1,6 @@
 **🇬🇧 English |  [فارسی](README.fa.md)**
 
-# Database Project — Solar Panel Management System
+# Database Project - Solar Panel Management System
 
 ## Project Phases
 
