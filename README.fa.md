@@ -4,7 +4,6 @@
 
 # پروژه پایگاه داده — سیستم مدیریت پنل خورشیدی
 
----
 
 ## مراحل پروژه
 
@@ -32,7 +31,6 @@ Helios-DB/
 │   └── 01-requirements.md
 ├── diagrams/
 └── sql/
-    ├── 00-schema.sql
     └── queries
 ```
 
