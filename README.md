@@ -1,6 +1,6 @@
 **🇬🇧 English | 🇮🇷 [فارسی](README.fa.md)**
 
-# Solar Power Plant Monitoring System - Database Project
+# Solar Panel Management System - Database Project
 
 **Team:** E. Nima, P. Ali, S. Amir
 
