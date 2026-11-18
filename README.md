@@ -1,7 +1,6 @@
 **🇬🇧 English |  [فارسی](README.fa.md)**
 
 # Database Project — Solar Panel Management System
----
 
 ## Project Phases
 
@@ -26,7 +25,6 @@ Helios-DB/
 │   └── 01-requirements.md
 ├── diagrams/
 └── sql/
-    ├── 00-schema.sql
     └── queries
 ```
 
