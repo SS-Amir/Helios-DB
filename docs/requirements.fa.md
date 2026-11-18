@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-**🇬🇧 [English](requirements.md) |  فارسی**
+**🇬🇧 [English](requirements.md) | 🇮🇷 فارسی**
 
 > **یادداشت:** قالب‌بندی رنگی سند اصلی به‌صورت نشانگرهای ایموجی حفظ شده است. نسخه PDF: [`source/Helios-db-RC-fa.pdf`](source/Helios-db-RC-fa.pdf) · نسخه قابل ویرایش: [`source/Helios-db-RC-fa.docx`](source/Helios-db-RC-fa.docx).
 
