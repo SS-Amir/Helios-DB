@@ -39,7 +39,7 @@ _TBD_
 ## Notes
 
 - Requirements: see [`docs/01-requirements.md`](docs/01-requirements.md)
-- The original `.docx` submission copy is kept alongside for reference.
+- The original `.pdf` submission copy is kept alongside for reference.
 
 ---
 
