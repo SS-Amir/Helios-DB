@@ -1,4 +1,4 @@
-**🇬🇧 English | 🇮🇷 [فارسی](README.fa.md)**
+**🇬🇧 English |  [فارسی](README.fa.md)**
 
 # Database Project — Solar Panel Management System
 ---
@@ -45,4 +45,4 @@ _TBD_
 
 ---
 
-> **Note:** This README is also available in [Persian](README.fa.md). Any change to project status, structure, or phase list must be applied to **both** files.
+> This README is also available in [Persian](README.fa.md). Any change to project status, structure, or phase list must be applied to **both** files.
