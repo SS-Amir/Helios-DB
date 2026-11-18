@@ -52,4 +52,4 @@ _TBD_
 
 ---
 
-> This README is also available in [Persian](README.fa.md). Any change to project status, structure, or phase list will be applied to **both** versions.
+> This README is also available in [Persian](README.fa.md). Any change to project status, structure, or phase list will be applied to **both** files.
