@@ -1,6 +1,6 @@
 **🇬🇧 English |  [فارسی](requirements.fa.md)**
 
-> **Note:** Color-coded formatting from the original `.pdf` is preserved as emoji markers. Formatted original: [`source/Helios-db-RC.pdf`](source/Helios-db-RC.pdf).
+> **Note:** Color-coded formatting from the original `.docx` is preserved as emoji markers. Formatted PDF: [`source/Helios-db-RC.pdf`](source/Helios-db-RC.pdf) · Editable source: [`source/Helios-db-RC.docx`](source/Helios-db-RC.docx).
 
 # Requirements Document
 
