@@ -53,3 +53,25 @@ _TBD_
 ---
 
 > This README is also available in [Persian](README.fa.md). Any change to project status, structure, or phase list will be applied to **both** files.
+
+---
+
+## Tags
+
+Annotated tags mark each completed phase. Use them to jump back to a finished phase or to diff two phases.
+
+| Tag | Phase | Status |
+|---|---|---|
+| `v0.1-requirements` | Phase 1 — Requirements | ✅ done |
+| `v0.2-er-model` | Phase 2 — ER Model | ⏳ planned |
+| `v0.3-relational-schema` | Phase 3 — Relational Schema | ⏳ planned |
+| `v0.4-normalization` | Phase 4 — Normalization | ⏳ planned |
+| `v0.5-sql` | Phase 5 — SQL Implementation | ⏳ planned |
+| `v1.0-final` | Phase 6 — Testing & Final Submission | ⏳ planned |
+
+**Useful commands**
+```bash
+git tag -n                                   # list tags with messages
+git checkout v0.1-requirements               # inspect a finished phase (detached HEAD)
+git switch -                                 # go back to where you were
+git diff v0.1-requirements..v0.2-er-model    # what changed between two phases
