@@ -18,10 +18,17 @@
 ### مرحله ۱ — نیازمندی‌ها
 | قالب | 🇬🇧 انگلیسی | 🇮🇷 فارسی |
 |:--|:--|:--|
-| 📝 Markdown | [`requirements.md`](docs/requirements.md) | [`requirements.fa.md`](docs/requirements.fa.md) |
+| 📝 Markdown | [`01-requirements.md`](docs/01-requirements.md) | [`01-requirements.fa.md`](docs/01-requirements.fa.md) |
 | 📄 PDF | [`Helios-db-RC.pdf`](docs/source/Helios-db-RC.pdf) | [`Helios-db-RC-fa.pdf`](docs/source/Helios-db-RC-fa.pdf) |
 | 📦 Source (`.docx`) | [`Helios-db-RC.docx`](docs/source/Helios-db-RC.docx) | [`Helios-db-RC-fa.docx`](docs/source/Helios-db-RC-fa.docx) |
 
+### مرحله ۲ — مدل ER
+
+| قالب | 🇬🇧 انگلیسی | 🇮🇷 فارسی |
+|:--|:--|:--|
+| 📝 Markdown | [`02-er-diagram.md`](docs/02-er-diagram.md) | [`02-er-diagram.fa.md`](docs/02-er-diagram.fa.md) |
+| 🎨 منبع نمودار (`.drawio`) | [`Helios-db-ER.drawio`](diagrams/Helios-db-ER.drawio) | [`Helios-db-ER-fa.drawio`](diagrams/Helios-db-ER-fa.drawio) |
+| 🖼️ نمودار (SVG) | [`Helios-db-ER.drawio.svg`](diagrams/Helios-db-ER.drawio.svg) | [`Helios-db-ER-fa.drawio.svg`](diagrams/Helios-db-ER-fa.drawio.svg) |
 
 ## ساختار پروژه
 </div>
@@ -37,12 +44,18 @@ Helios-DB/
 ├── docs/
 │   ├── requirements.md
 │   ├── requirements.fa.md
+│   ├── 02-er-diagram.md
+│   ├── 02-er-diagram.fa.md
 │   └── source/
 │       ├── Helios-db-RC.docx
 │       ├── Helios-db-RC.pdf
 │       ├── Helios-db-RC-fa.docx
 │       └── Helios-db-RC-fa.pdf
 ├── diagrams/
+│   ├── Helios-db-ER.drawio
+│   ├── Helios-db-ER.drawio.svg
+│   ├── Helios-db-ER-fa.drawio
+│   └── Helios-db-ER-fa.drawio.svg
 └── sql/
     └── queries/
 ```
@@ -70,7 +83,7 @@ _تکمیل می‌شود._
 | برچسب | مرحله | وضعیت |
 |---|---|---|
 | `v0.1-requirements` | مرحله ۱ — نیازمندی‌ها | ✅ انجام شد |
-| `v0.2-er-model` | مرحله ۲ — مدل ER | ⏳ برنامه‌ریزی‌شده |
+| `v0.2-er-model` | مرحله ۲ — مدل ER | ✅ انجام شد |
 | `v0.3-relational-schema` | مرحله ۳ — طرح رابطه‌ای | ⏳ برنامه‌ریزی‌شده |
 | `v0.4-normalization` | مرحله ۴ — نرمال‌سازی | ⏳ برنامه‌ریزی‌شده |
 | `v0.5-sql` | مرحله ۵ — پیاده‌سازی SQL | ⏳ برنامه‌ریزی‌شده |

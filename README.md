@@ -18,11 +18,20 @@
 
 | Format | 🇬🇧 English | 🇮🇷 Persian |
 |:--|:--|:--|
-| 📝 Markdown | [`requirements.md`](docs/requirements.md) | [`requirements.fa.md`](docs/requirements.fa.md) |
+| 📝 Markdown | [`01-requirements.md`](docs/01-requirements.md) | [`01-requirements.fa.md`](docs/01-requirements.fa.md) |
 | 📄 PDF | [`Helios-db-RC.pdf`](docs/source/Helios-db-RC.pdf) | [`Helios-db-RC-fa.pdf`](docs/source/Helios-db-RC-fa.pdf) |
 | 📦 Source (`.docx`) | [`Helios-db-RC.docx`](docs/source/Helios-db-RC.docx) | [`Helios-db-RC-fa.docx`](docs/source/Helios-db-RC-fa.docx) |
 
+### Phase 2 — ER Model
+
+| Format | 🇬🇧 English | 🇮🇷 Persian |
+|:--|:--|:--|
+| 📝 Markdown | [`02-er-diagram.md`](docs/02-er-diagram.md) | [`02-er-diagram.fa.md`](docs/02-er-diagram.fa.md) |
+| 🎨 Diagram source (`.drawio`) | [`Helios-db-ER.drawio`](diagrams/Helios-db-ER.drawio) | [`Helios-db-ER-fa.drawio`](diagrams/Helios-db-ER-fa.drawio) |
+| 🖼️ Diagram (SVG) | [`Helios-db-ER.drawio.svg`](diagrams/Helios-db-ER.drawio.svg) | [`Helios-db-ER.fa.drawio.svg`](diagrams/Helios-db-ER-fa.drawio.svg) |
+
 ## Repository Structure
+
 ```
 Helios-DB/
 ├── README.md
@@ -32,12 +41,18 @@ Helios-DB/
 ├── docs/
 │   ├── requirements.md
 │   ├── requirements.fa.md
+│   ├── 02-er-diagram.md
+│   ├── 02-er-diagram.fa.md
 │   └── source/
 │       ├── Helios-db-RC.docx
 │       ├── Helios-db-RC.pdf
 │       ├── Helios-db-RC-fa.docx
 │       └── Helios-db-RC-fa.pdf
 ├── diagrams/
+│   ├── Helios-db-ER.drawio
+│   ├── Helios-db-ER.drawio.svg
+│   ├── Helios-db-ER-fa.drawio
+│   └── Helios-db-ER-fa.drawio.svg
 └── sql/
     └── queries/
 ```
@@ -63,7 +78,7 @@ Annotated tags mark each completed phase. Use them to jump back to a finished ph
 | Tag | Phase | Status |
 |---|---|---|
 | `v0.1-requirements` | Phase 1 — Requirements | ✅ done |
-| `v0.2-er-model` | Phase 2 — ER Model | ⏳ planned |
+| `v0.2-er-model` | Phase 2 — ER Model | ✅ done |
 | `v0.3-relational-schema` | Phase 3 — Relational Schema | ⏳ planned |
 | `v0.4-normalization` | Phase 4 — Normalization | ⏳ planned |
 | `v0.5-sql` | Phase 5 — SQL Implementation | ⏳ planned |
@@ -75,3 +90,4 @@ git tag -n                                   # list tags with messages
 git checkout v0.1-requirements               # inspect a finished phase (detached HEAD)
 git switch -                                 # go back to where you were
 git diff v0.1-requirements..v0.2-er-model    # what changed between two phases
+```
