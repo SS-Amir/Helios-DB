@@ -64,7 +64,7 @@ _TBD_
 ## Notes
 - PDFs in `docs/source/` are generated from the `.docx` files. Regenerate if the `.docx` changes.
 - If the inline PDF viewer fails on GitHub, use the **Download** button, or append `?raw=true` to the PDF URL to open it in the browser's native viewer.
-
+- **Errata:** the requirements PDFs in `docs/source/` were corrected in 3158c5cdfdc9ae56bcd86521c268131793e77a83. The `v0.1-requirements` tag retain the pre-correction version.
 ---
 
 > This README is also available in [Persian](README.fa.md). Any change to project status, structure, or phase list will be applied to **both** files.
