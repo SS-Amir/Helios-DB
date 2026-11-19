@@ -82,5 +82,5 @@ git tag -n                                   # فهرست برچسب‌ها هم
 git checkout v0.1-requirements               # دیدن یک مرحلهٔ تمام‌شده (detached HEAD)
 git switch -                                 # بازگشت به جای قبلی
 git diff v0.1-requirements..v0.2-er-model    # تفاوت دو مرحله
-
+```
 </div>
