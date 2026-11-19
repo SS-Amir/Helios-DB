@@ -1,6 +1,8 @@
 <div dir="rtl">
-# فاز ۲ — مدل موجودیت-رابطه (ER)
-**🇬🇧 [English](02-er-diagram.md) | 🇮🇷 فارسی**
+
+  # فاز ۲ - مدل ER
+  
+  **🇬🇧 [English](02-er-diagram.md) | 🇮🇷 فارسی**
 
 ورودی: [`01-requirements.fa.md`](01-requirements.fa.md)
 نمودار (فارسی): [`../diagrams/Helios-db-ER-fa.drawio.svg`](../diagrams/Helios-db-ER-fa.drawio.svg) · منبع [`../diagrams/Helios-db-ER-fa.drawio`](../diagrams/Helios-db-ER-fa.drawio)
