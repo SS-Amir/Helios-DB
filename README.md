@@ -6,7 +6,7 @@
 
 ## Project Phases
 - [x] Phase 1 — Requirements
-- [ ] Phase 2 — ER Model
+- [x] Phase 2 — ER Model
 - [ ] Phase 3 — Relational Schema
 - [ ] Phase 4 — Normalization
 - [ ] Phase 5 — SQL Implementation

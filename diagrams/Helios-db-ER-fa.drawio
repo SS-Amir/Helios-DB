@@ -1,0 +1,349 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="qEN-QrvZudyVT4fWTj1z">
+    <mxGraphModel dx="2188" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e_user" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" value="کاربر" vertex="1">
+          <mxGeometry height="50" width="120" x="260" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="a_u_id" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="کد ملی" vertex="1">
+          <mxGeometry height="40" width="90" x="130" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a_u_uname" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نام کاربری" vertex="1">
+          <mxGeometry height="40" width="90" x="275" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a_u_phone" parent="1" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="شماره‌های تماس" vertex="1">
+          <mxGeometry height="45" width="110" x="400" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a_u_fullname" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نام کامل" vertex="1">
+          <mxGeometry height="40" width="90" x="110" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="a_u_fname" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نام" vertex="1">
+          <mxGeometry height="35" width="75" x="10" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="a_u_lname" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نام خانوادگی" vertex="1">
+          <mxGeometry height="35" width="85" x="10" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="isa_user" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;" value="d" vertex="1">
+          <mxGeometry height="36" width="36" x="302" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="e_admin" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="مدیر" vertex="1">
+          <mxGeometry height="45" width="100" x="130" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a_admin_lvl" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="سطح ارشدیت" vertex="1">
+          <mxGeometry height="40" width="100" x="130" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="e_expert" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="کارشناس" vertex="1">
+          <mxGeometry height="45" width="100" x="270" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a_exp_field" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="حوزه تخصص" vertex="1">
+          <mxGeometry height="40" width="100" x="270" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="e_operator" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="اپراتور" vertex="1">
+          <mxGeometry height="45" width="100" x="410" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a_op_shift" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="شیفت کاری" vertex="1">
+          <mxGeometry height="40" width="100" x="410" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="r_assign" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="تخصیص می‌یابد" vertex="1">
+          <mxGeometry height="70" width="130" x="550" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="a_r_date" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f0f9ef;strokeColor=#82b366;" value="تاریخ شروع مسئولیت" vertex="1">
+          <mxGeometry height="45" width="120" x="460" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="a_r_access" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f0f9ef;strokeColor=#82b366;" value="سطح دسترسی اعطاشده" vertex="1">
+          <mxGeometry height="45" width="125" x="642.5" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="e_plant" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" value="نیروگاه" vertex="1">
+          <mxGeometry height="50" width="120" x="830" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_id" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="شناسه اختصاصی" vertex="1">
+          <mxGeometry height="40" width="110" x="760" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_name" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نام نیروگاه" vertex="1">
+          <mxGeometry height="40" width="90" x="890" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_owner" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="مشخصات مالک" vertex="1">
+          <mxGeometry height="40" width="100" x="1000" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_date" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="تاریخ بهره‌برداری" vertex="1">
+          <mxGeometry height="40" width="105" x="1030" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_cap" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="ظرفیت کل نصب‌شده" vertex="1">
+          <mxGeometry height="45" width="120" x="1030" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_loc" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="موقعیت جغرافیایی" vertex="1">
+          <mxGeometry height="45" width="115" x="1020" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_prov" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="استان" vertex="1">
+          <mxGeometry height="35" width="75" x="1180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_city" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="شهر" vertex="1">
+          <mxGeometry height="35" width="75" x="1190" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="a_p_addr" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="آدرس دقیق" vertex="1">
+          <mxGeometry height="35" width="85" x="1180" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="r_located" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="مستقر می‌شود" vertex="1">
+          <mxGeometry height="70" width="130" x="825" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="e_inverter" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" value="اینورتر" vertex="1">
+          <mxGeometry height="50" width="120" x="830" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="a_i_sn" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="شماره سریال" vertex="1">
+          <mxGeometry height="40" width="100" x="660" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="a_i_brand" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نام برند" vertex="1">
+          <mxGeometry height="40" width="90" x="660" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="a_i_model" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="مدل" vertex="1">
+          <mxGeometry height="40" width="90" x="660" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="a_i_cap" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="ظرفیت نامی" vertex="1">
+          <mxGeometry height="40" width="95" x="990" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="a_i_conn" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نوع ارتباط" vertex="1">
+          <mxGeometry height="40" width="95" x="990" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="r_connect" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="متصل می‌شود" vertex="1">
+          <mxGeometry height="70" width="130" x="520" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="a_r_ctype" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f0f9ef;strokeColor=#82b366;" value="نحوه اتصال" vertex="1">
+          <mxGeometry height="40" width="100" x="430" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="a_r_port" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f0f9ef;strokeColor=#82b366;" value="شماره پورت ورودی" vertex="1">
+          <mxGeometry height="40" width="115" x="527.5" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="e_string" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" value="رشته پنل (String)" vertex="1">
+          <mxGeometry height="50" width="130" x="220" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="a_s_id" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="کد یکتای رشته" vertex="1">
+          <mxGeometry height="40" width="105" x="60" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="a_s_cnt" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="تعداد پنل" vertex="1">
+          <mxGeometry height="40" width="95" x="50" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="a_s_type" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نوع پنل" vertex="1">
+          <mxGeometry height="40" width="95" x="60" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="a_s_cap" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="ظرفیت بخش" vertex="1">
+          <mxGeometry height="40" width="100" x="235" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="r_follow" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="پیروی می‌کند" vertex="1">
+          <mxGeometry height="70" width="130" x="825" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="e_regmap" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" value="نقشه رجیستر" vertex="1">
+          <mxGeometry height="50" width="120" x="830" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="a_m_id" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="کد نقشه" vertex="1">
+          <mxGeometry height="40" width="95" x="670" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="a_m_proto" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نام پروتکل" vertex="1">
+          <mxGeometry height="40" width="95" x="670" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="a_m_ver" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="نسخه" vertex="1">
+          <mxGeometry height="40" width="90" x="845" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="a_m_params" parent="1" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#f5f9ff;strokeColor=#6c8ebf;" value="پارامترهای ارتباطی" vertex="1">
+          <mxGeometry height="45" width="125" x="1000" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="r_log" parent="1" style="shape=rhombus;double=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;" value="ثبت می‌گردد" vertex="1">
+          <mxGeometry height="70" width="130" x="1130" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="e_log" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=14;" value="داده عملکردی" vertex="1">
+          <mxGeometry height="50" width="120" x="1360" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="a_l_time" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff5eb;strokeColor=#d79b00;" value="&lt;span style=&quot;border-bottom: 2px dashed #000;&quot;&gt;زمان ثبت (Timestamp)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="140" x="1350" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="a_l_volt" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff5eb;strokeColor=#d79b00;" value="ولتاژ" vertex="1">
+          <mxGeometry height="40" width="90" x="1530" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="a_l_pow" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff5eb;strokeColor=#d79b00;" value="توان تولیدی" vertex="1">
+          <mxGeometry height="40" width="95" x="1560" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="a_l_eng" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff5eb;strokeColor=#d79b00;" value="انرژی تولیدشده" vertex="1">
+          <mxGeometry height="40" width="105" x="1560" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="a_l_freq" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff5eb;strokeColor=#d79b00;" value="فرکانس" vertex="1">
+          <mxGeometry height="40" width="90" x="1540" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="a_l_temp" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff5eb;strokeColor=#d79b00;" value="دما" vertex="1">
+          <mxGeometry height="40" width="85" x="1460" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="a_l_stat" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff5eb;strokeColor=#d79b00;" value="وضعیت عملکرد" vertex="1">
+          <mxGeometry height="40" width="105" x="1330" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" edge="1" parent="1" source="e_user" style="endArrow=none;html=1;" target="a_u_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" edge="1" parent="1" source="e_user" style="endArrow=none;html=1;" target="a_u_uname">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" edge="1" parent="1" source="e_user" style="endArrow=none;html=1;" target="a_u_phone">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" edge="1" parent="1" source="e_user" style="endArrow=none;html=1;" target="a_u_fullname">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" edge="1" parent="1" source="a_u_fullname" style="endArrow=none;html=1;" target="a_u_fname">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" edge="1" parent="1" source="a_u_fullname" style="endArrow=none;html=1;" target="a_u_lname">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" edge="1" parent="1" source="e_user" style="endArrow=none;html=1;strokeWidth=2;" target="isa_user">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" edge="1" parent="1" source="isa_user" style="endArrow=none;html=1;" target="e_admin">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" edge="1" parent="1" source="isa_user" style="endArrow=none;html=1;" target="e_expert">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" edge="1" parent="1" source="isa_user" style="endArrow=none;html=1;" target="e_operator">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" edge="1" parent="1" source="e_admin" style="endArrow=none;html=1;" target="a_admin_lvl">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c12" edge="1" parent="1" source="e_expert" style="endArrow=none;html=1;" target="a_exp_field">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" edge="1" parent="1" source="e_operator" style="endArrow=none;html=1;" target="a_op_shift">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c14" edge="1" parent="1" source="e_user" style="endArrow=none;html=1;fontStyle=1;fontSize=13;" target="r_assign" value="M">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c15" edge="1" parent="1" source="r_assign" style="endArrow=none;html=1;fontStyle=1;fontSize=13;" target="e_plant" value="N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" edge="1" parent="1" source="r_assign" style="endArrow=none;html=1;dashed=1;" target="a_r_date">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" edge="1" parent="1" source="r_assign" style="endArrow=none;html=1;dashed=1;" target="a_r_access">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" edge="1" parent="1" source="e_plant" style="endArrow=none;html=1;" target="a_p_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" edge="1" parent="1" source="e_plant" style="endArrow=none;html=1;" target="a_p_name">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" edge="1" parent="1" source="e_plant" style="endArrow=none;html=1;" target="a_p_owner">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" edge="1" parent="1" source="e_plant" style="endArrow=none;html=1;" target="a_p_date">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" edge="1" parent="1" source="e_plant" style="endArrow=none;html=1;" target="a_p_cap">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" edge="1" parent="1" source="e_plant" style="endArrow=none;html=1;" target="a_p_loc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" edge="1" parent="1" source="a_p_loc" style="endArrow=none;html=1;" target="a_p_prov">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" edge="1" parent="1" source="a_p_loc" style="endArrow=none;html=1;" target="a_p_city">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" edge="1" parent="1" source="a_p_loc" style="endArrow=none;html=1;" target="a_p_addr">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c27" edge="1" parent="1" source="e_plant" style="endArrow=none;html=1;fontStyle=1;fontSize=13;" target="r_located" value="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" edge="1" parent="1" source="r_located" style="endArrow=none;html=1;fontStyle=1;fontSize=13;shape=link;" target="e_inverter" value="N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;" target="a_i_sn">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;" target="a_i_brand">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c31" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;" target="a_i_model">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c32" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;" target="a_i_cap">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c33" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;" target="a_i_conn">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c34" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;fontStyle=1;fontSize=13;" target="r_connect" value="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c35" edge="1" parent="1" source="r_connect" style="endArrow=none;html=1;fontStyle=1;fontSize=13;shape=link;" target="e_string" value="N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" edge="1" parent="1" source="r_connect" style="endArrow=none;html=1;dashed=1;" target="a_r_ctype">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c37" edge="1" parent="1" source="r_connect" style="endArrow=none;html=1;dashed=1;" target="a_r_port">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c38" edge="1" parent="1" source="e_string" style="endArrow=none;html=1;" target="a_s_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c39" edge="1" parent="1" source="e_string" style="endArrow=none;html=1;" target="a_s_cnt">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c40" edge="1" parent="1" source="e_string" style="endArrow=none;html=1;" target="a_s_type">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c41" edge="1" parent="1" source="e_string" style="endArrow=none;html=1;" target="a_s_cap">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c42" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;fontStyle=1;fontSize=13;shape=link;" target="r_follow" value="N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c43" edge="1" parent="1" source="r_follow" style="endArrow=none;html=1;fontStyle=1;fontSize=13;" target="e_regmap" value="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c44" edge="1" parent="1" source="e_regmap" style="endArrow=none;html=1;" target="a_m_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c45" edge="1" parent="1" source="e_regmap" style="endArrow=none;html=1;" target="a_m_proto">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c46" edge="1" parent="1" source="e_regmap" style="endArrow=none;html=1;" target="a_m_ver">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c47" edge="1" parent="1" source="e_regmap" style="endArrow=none;html=1;" target="a_m_params">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c48" edge="1" parent="1" source="e_inverter" style="endArrow=none;html=1;fontStyle=1;fontSize=13;" target="r_log" value="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c49" edge="1" parent="1" source="r_log" style="endArrow=none;html=1;fontStyle=1;fontSize=13;shape=link;" target="e_log" value="N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50" edge="1" parent="1" source="e_log" style="endArrow=none;html=1;" target="a_l_time">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c51" edge="1" parent="1" source="e_log" style="endArrow=none;html=1;" target="a_l_volt">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c52" edge="1" parent="1" source="e_log" style="endArrow=none;html=1;" target="a_l_pow">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c53" edge="1" parent="1" source="e_log" style="endArrow=none;html=1;" target="a_l_eng">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c54" edge="1" parent="1" source="e_log" style="endArrow=none;html=1;" target="a_l_freq">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c55" edge="1" parent="1" source="e_log" style="endArrow=none;html=1;" target="a_l_temp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c56" edge="1" parent="1" source="e_log" style="endArrow=none;html=1;" target="a_l_stat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
