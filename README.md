@@ -7,10 +7,6 @@
 ## Project Phases
 - [x] Phase 1 — Requirements
 - [x] Phase 2 — ER Model
-- [ ] Phase 3 — Relational Schema
-- [ ] Phase 4 — Normalization
-- [ ] Phase 5 — SQL Implementation
-- [ ] Phase 6 — Testing & Queries
 
 ## Phase Documents
 
@@ -75,14 +71,10 @@ _TBD_
 
 Annotated tags mark each completed phase. Use them to jump back to a finished phase or to diff two phases.
 
-| Tag | Phase | Status |
-|---|---|---|
-| `v0.1-requirements` | Phase 1 — Requirements | ✅ done |
-| `v0.2-er-model` | Phase 2 — ER Model | ✅ done |
-| `v0.3-relational-schema` | Phase 3 — Relational Schema | ⏳ planned |
-| `v0.4-normalization` | Phase 4 — Normalization | ⏳ planned |
-| `v0.5-sql` | Phase 5 — SQL Implementation | ⏳ planned |
-| `v1.0-final` | Phase 6 — Testing & Final Submission | ⏳ planned |
+| Tag | Phase |
+|---|---|
+| `v0.1-requirements` | Phase 1 — Requirements |
+| `v0.2-er-model` | Phase 2 — ER Model |
 
 **Useful commands**
 ```bash
