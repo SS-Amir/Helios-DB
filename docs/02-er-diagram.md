@@ -44,7 +44,7 @@ Diagram (EN): [`../diagrams/Helios-db-ER.drawio.svg`](../diagrams/Helios-db-ER.d
 - **Constraint Type:** **Disjoint (`d`)** and **Total**
 - **Explanation:** Every user registered in the monitoring system has a specific organizational role that dictates their attributes and permissions. A user takes on one distinct role (`Admin` with `Seniority_Level`, `Expert` with `Field_of_Expertise`, or `Operator` with `Work_Shift`), and all subtypes inherit the primary key (`National_ID`) and common attributes (`Username`, `Full_Name`, `Phone_Numbers`) from `User`.
 
-## 5. Constraints to enforce in Phase 3
+## 5. Constraints
 
 - **Derived Attribute Calculation:** `Total_Installed_Capacity` in `Power_Plant` must be computed dynamically (via a SQL `VIEW` or trigger) as `SUM(Rated_Capacity)` of all inverters deployed in that plant.
 - **Referential Integrity & Cascading:** Deleting an `Inverter` should cascade delete its dependent `Performance_Data` records (`ON DELETE CASCADE`), while deleting a `Register_Map` or `Power_Plant` that has active inverters must be restricted (`ON DELETE RESTRICT`).
